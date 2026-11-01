@@ -1,0 +1,6 @@
+// node extract_icons.js  -> icons.json   (add keys to WANT to ship more icons)
+const fs=require('fs');const nm='./node_modules/'; // npm i simple-icons si13@npm:simple-icons@13.21.0
+const cur=require(nm+'simple-icons'), old=require(nm+'si13');
+const WANT=['React','Typescript','Nextdotjs','Tailwindcss','Vite','Svelte','Threedotjs','Greensock','Framer','Blender','Webgl','Python','Postgresql','Redis','Pandas','Graphql','Nodedotjs','Docker','Pytorch','Huggingface','Anthropic','Jupyter','Numpy','Figma','Github','X','Gmail','Instagram','Youtube','Javascript','Html5','Css','Supabase','Vercel','Git','Linux','Rust','Go','Redux','Storybook','Vuedotjs','Angular','Fastapi','Tensorflow','Scikitlearn','Kaggle','Notion','Discord','Codepen','Openai','D3dotjs','Linkedin','Mdx','Prisma','Expo','Flutter','Kubernetes','Googlecloud','Firebase','Mongodb','Mysql','Sqlite','Deno','Bun','Astro','Remix','Gsap','Lottiefiles','Obsidian','Spotify'];
+const out={};for(const w of WANT){const k='si'+w;const s=cur[k]||old[k];if(s)out[w]={title:s.title,hex:s.hex,path:s.path};}
+fs.writeFileSync('icons.json',JSON.stringify(out));console.log(Object.keys(out).length,'icons; missing:',WANT.filter(w=>!out[w]).join(', '));

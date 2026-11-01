@@ -1,0 +1,84 @@
+{
+  "_note": "EDIT ME: every value below is sample data. Change it, then run: python3 build.py",
+  "name": "Your Name",
+  "initials": "YN",
+  "role": "Full-Stack Creative Developer",
+  "username": "yourusername",
+  "email": "you@example.com",
+  "city": "Your City",
+  "company": "Your Company",
+  "branch": "main",
+
+  "roles": ["Full-Stack Creative Developer", "UI + Motion Engineer", "AI Tinkerer"],
+  "pitch": "I build fast, delightful interfaces and the data + AI behind them.",
+  "meta": { "stars": "1.2k", "repos": "42" },
+
+  "capabilities": [
+    { "title": "Build",  "sub": "Full-stack apps, APIs, tooling",   "icon": "code" },
+    { "title": "Design", "sub": "Interfaces with motion & polish",  "icon": "sparkles" },
+    { "title": "Ship",   "sub": "CI/CD, containers, observability", "icon": "rocket" }
+  ],
+
+  "hobbies": [
+    { "title": "Photography", "caption": "Chasing golden hour, one frame at a time", "icon": "camera" },
+    { "title": "Gaming",      "caption": "Co-op nights and indie gems",               "icon": "gamepad" },
+    { "title": "Cycling",     "caption": "Weekend loops before the city wakes up",    "icon": "bike" },
+    { "title": "Music",       "caption": "Lo-fi beats while the build runs",          "icon": "headphones" }
+  ],
+  "rings": [
+    { "label": "Focus", "pct": 0.82, "color": "#22d3ee" },
+    { "label": "Move",  "pct": 0.64, "color": "#a78bfa" },
+    { "label": "Read",  "pct": 0.47, "color": "#f472b6" }
+  ],
+
+  "skills": {
+    "Frontend":     ["React", "Typescript", "Nextdotjs", "Tailwindcss", "Vite"],
+    "Motion & 3D":  ["Threedotjs", "Greensock", "Framer", "Blender", "Webgl"],
+    "Data":         ["Python", "Postgresql", "Redis", "Pandas", "Graphql"],
+    "AI":           ["Pytorch", "Huggingface", "Anthropic", "Jupyter", "Numpy"]
+  },
+  "orbits": [
+    ["Tailwindcss", "Nextdotjs", "Framer", "Svelte"],
+    ["React", "Python", "Postgresql", "Docker", "Graphql"],
+    ["Threedotjs", "Greensock", "Pytorch", "Nodedotjs", "Figma", "Github"]
+  ],
+  "react_host": "React",
+  "moons": ["Typescript", "Vite"],
+
+  "kpis": [
+    { "label": "Stars",     "value": 1284 },
+    { "label": "Repos",     "value": 42 },
+    { "label": "Commits/yr","value": 2310 },
+    { "label": "Followers", "value": 356 }
+  ],
+  "repos": [
+    { "name": "aurora-ui",     "stars": 812 },
+    { "name": "orbit-kit",     "stars": 546 },
+    { "name": "glass-charts",  "stars": 388 },
+    { "name": "motion-recipes","stars": 241 },
+    { "name": "edge-notes",    "stars": 167 },
+    { "name": "prompt-garden", "stars": 96 }
+  ],
+  "fetch_repos": false,
+  "now": [
+    { "label": "Building",  "value": "a realtime design tool" },
+    { "label": "Learning",  "value": "WebGPU + shaders" },
+    { "label": "Reading",   "value": "Designing Data-Intensive Apps" },
+    { "label": "Listening", "value": "lo-fi / synthwave" }
+  ],
+
+  "links": [
+    { "label": "GitHub",   "handle": "@{username}",       "url": "https://github.com/{username}",         "icon": "Github" },
+    { "label": "LinkedIn", "handle": "in/{username}",     "url": "https://www.linkedin.com/in/{username}", "icon": "Linkedin" },
+    { "label": "X",        "handle": "@{username}",       "url": "https://x.com/{username}",              "icon": "X" },
+    { "label": "Email",    "handle": "{email}",           "url": "mailto:{email}",                        "icon": "Gmail" }
+  ],
+
+  "projects": [
+    { "name": "aurora-ui",    "desc": "Glassmorphic React component kit with motion presets.", "stack": "React · TypeScript · Tailwind", "url": "https://github.com/{username}/aurora-ui" },
+    { "name": "orbit-kit",    "desc": "Tiny SVG/SMIL toolkit for animated READMEs.",             "stack": "Python · SVG",                  "url": "https://github.com/{username}/orbit-kit" },
+    { "name": "prompt-garden","desc": "Curated prompt patterns with an eval harness.",           "stack": "Python · Anthropic API",        "url": "https://github.com/{username}/prompt-garden" }
+  ],
+
+  "clip": { "file": "clip.mp4", "fps": 10, "max_frames": 36, "width": 440 }
+}
