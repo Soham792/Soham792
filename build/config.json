@@ -1,29 +1,29 @@
 {
   "_note": "EDIT ME: every value below is sample data. Change it, then run: python3 build.py",
-  "name": "Your Name",
-  "initials": "YN",
-  "role": "Full-Stack Creative Developer",
-  "username": "yourusername",
-  "email": "you@example.com",
-  "city": "Your City",
-  "company": "Your Company",
+  "name": "Soham Marathe",
+  "initials": "SM",
+  "role": "AI Engineer",
+  "username": "Soham792",
+  "email": "sohammarathe3@gmail.com",
+  "city": "Mumbai, Maharashtra",
+  "company": "HackersEra India",
   "branch": "main",
 
-  "roles": ["Full-Stack Creative Developer", "UI + Motion Engineer", "AI Tinkerer"],
-  "pitch": "I build fast, delightful interfaces and the data + AI behind them.",
+  "roles": ["AI Engineer", "LLM & Automation Builder", "Cybersecurity Enthusiast"],
+  "pitch": "AI apps, chatbots & automation workflows powered by LLMs.",
   "meta": { "stars": "1.2k", "repos": "42" },
 
   "capabilities": [
-    { "title": "Build",  "sub": "Full-stack apps, APIs, tooling",   "icon": "code" },
-    { "title": "Design", "sub": "Interfaces with motion & polish",  "icon": "sparkles" },
-    { "title": "Ship",   "sub": "CI/CD, containers, observability", "icon": "rocket" }
+    { "title": "AI / ML",  "sub": "LLM integration, predictive modeling", "icon": "cpu" },
+    { "title": "GenAI",    "sub": "AI agents, chatbots, n8n automation",  "icon": "sparkles" },
+    { "title": "Security", "sub": "Pentesting, OWASP Top 10, CTFs",       "icon": "lock" }
   ],
 
   "hobbies": [
-    { "title": "Photography", "caption": "Chasing golden hour, one frame at a time", "icon": "camera" },
-    { "title": "Gaming",      "caption": "Co-op nights and indie gems",               "icon": "gamepad" },
-    { "title": "Cycling",     "caption": "Weekend loops before the city wakes up",    "icon": "bike" },
-    { "title": "Music",       "caption": "Lo-fi beats while the build runs",          "icon": "headphones" }
+    { "title": "NexusHire",        "caption": "AI-powered recruitment platform, live demo",   "icon": "users" },
+    { "title": "PanelSena",        "caption": "Kotlin cloud digital signage for Raspberry Pi", "icon": "layers" },
+    { "title": "PromptInjection",  "caption": "LLM prompt injection attacks & defenses",       "icon": "lock" },
+    { "title": "HackersEra",       "caption": "Penetration tester intern, OWASP testing",      "icon": "activity" }
   ],
   "rings": [
     { "label": "Focus", "pct": 0.82, "color": "#22d3ee" },
@@ -52,32 +52,32 @@
     { "label": "Followers", "value": 356 }
   ],
   "repos": [
-    { "name": "aurora-ui",     "stars": 812 },
-    { "name": "orbit-kit",     "stars": 546 },
-    { "name": "glass-charts",  "stars": 388 },
-    { "name": "motion-recipes","stars": 241 },
-    { "name": "edge-notes",    "stars": 167 },
-    { "name": "prompt-garden", "stars": 96 }
+    { "name": "NexusHire",               "stars": 812 },
+    { "name": "PromptInjection",         "stars": 546 },
+    { "name": "PanelSena",               "stars": 388 },
+    { "name": "rag-support-agent",       "stars": 241 },
+    { "name": "PhishingAwarenessSystem", "stars": 167 },
+    { "name": "Stegavault",              "stars": 96 }
   ],
   "fetch_repos": false,
   "now": [
-    { "label": "Building",  "value": "a realtime design tool" },
-    { "label": "Learning",  "value": "WebGPU + shaders" },
-    { "label": "Reading",   "value": "Designing Data-Intensive Apps" },
+    { "label": "Building",  "value": "AI agents & chatbots" },
+    { "label": "Learning",  "value": "LLM security & prompt hacking" },
+    { "label": "Reading",   "value": "AI & cybersecurity" },
     { "label": "Listening", "value": "lo-fi / synthwave" }
   ],
 
   "links": [
-    { "label": "GitHub",   "handle": "@{username}",       "url": "https://github.com/{username}",         "icon": "Github" },
-    { "label": "LinkedIn", "handle": "in/{username}",     "url": "https://www.linkedin.com/in/{username}", "icon": "Linkedin" },
-    { "label": "X",        "handle": "@{username}",       "url": "https://x.com/{username}",              "icon": "X" },
-    { "label": "Email",    "handle": "{email}",           "url": "mailto:{email}",                        "icon": "Gmail" }
+    { "label": "GitHub",   "handle": "@{username}",   "url": "https://github.com/{username}",         "icon": "Github" },
+    { "label": "LinkedIn", "handle": "in/marathesoham", "url": "https://www.linkedin.com/in/marathesoham", "icon": "Linkedin" },
+    { "label": "X",        "handle": "",              "url": "",                                        "icon": "X" },
+    { "label": "Email",    "handle": "{email}",       "url": "mailto:{email}",                         "icon": "Gmail" }
   ],
 
   "projects": [
-    { "name": "aurora-ui",    "desc": "Glassmorphic React component kit with motion presets.", "stack": "React · TypeScript · Tailwind", "url": "https://github.com/{username}/aurora-ui" },
-    { "name": "orbit-kit",    "desc": "Tiny SVG/SMIL toolkit for animated READMEs.",             "stack": "Python · SVG",                  "url": "https://github.com/{username}/orbit-kit" },
-    { "name": "prompt-garden","desc": "Curated prompt patterns with an eval harness.",           "stack": "Python · Anthropic API",        "url": "https://github.com/{username}/prompt-garden" }
+    { "name": "NexusHire",   "desc": "AI-powered recruitment platform with 3D skill-match and auto-apply.", "stack": "React · LLMs · 3D",       "url": "https://github.com/{username}/NexusHire" },
+    { "name": "PanelSena",   "desc": "Cloud digital signage control for Raspberry Pi displays.",            "stack": "Kotlin · Firebase",       "url": "https://github.com/{username}/PanelSena" },
+    { "name": "PromptInjection", "desc": "Prompt injection attacks and defenses against LLM apps.",        "stack": "Python · LLM Security",   "url": "https://github.com/{username}/PromptInjection" }
   ],
 
   "clip": { "file": "clip.mp4", "fps": 10, "max_frames": 36, "width": 440 }

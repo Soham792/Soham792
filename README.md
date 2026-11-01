@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/hero.svg?v=1" alt="Your Name - Full-Stack Creative Developer" width="100%"/>
+<img src="https://raw.githubusercontent.com/Soham792/Soham792/main/assets/hero.svg?v=1" alt="Soham Marathe - AI Engineer" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/about-life.svg?v=1" alt="About me: capabilities and hobbies" width="100%"/>
+<img src="https://raw.githubusercontent.com/Soham792/Soham792/main/assets/about-life.svg?v=1" alt="About me: capabilities and hobbies" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/stack.svg?v=1" alt="Tech stack orbiting a glowing core, with grouped skill chips" width="100%"/>
+<img src="https://raw.githubusercontent.com/Soham792/Soham792/main/assets/stack.svg?v=1" alt="Tech stack orbiting a glowing core, with grouped skill chips" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/id-dashboard.svg?v=1" alt="Lanyard ID badge and GitHub dashboard" width="100%"/>
+<img src="https://raw.githubusercontent.com/Soham792/Soham792/main/assets/id-dashboard.svg?v=1" alt="Lanyard ID badge and GitHub dashboard" width="100%"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution city, refreshed daily" width="100%"/>
+<img src="https://raw.githubusercontent.com/Soham792/Soham792/main/profile-3d-contrib/profile-night-view.svg?v=1" alt="3D contribution city, refreshed daily" width="100%"/>
 
 </div>
 
@@ -24,16 +24,16 @@
 
 | Project | What it is | Stack |
 | :-- | :-- | :-- |
-| [**aurora-ui**](https://github.com/yourusername/aurora-ui) | Glassmorphic React component kit with motion presets. | `React · TypeScript · Tailwind` |
-| [**orbit-kit**](https://github.com/yourusername/orbit-kit) | Tiny SVG/SMIL toolkit for animated READMEs. | `Python · SVG` |
-| [**prompt-garden**](https://github.com/yourusername/prompt-garden) | Curated prompt patterns with an eval harness. | `Python · Anthropic API` |
+| [**NexusHire**](https://github.com/Soham792/NexusHire) | AI-powered recruitment platform with 3D skill-match and auto-apply. | `React Â· LLMs Â· 3D` |
+| [**PanelSena**](https://github.com/Soham792/PanelSena) | Cloud digital signage control for Raspberry Pi displays. | `Kotlin Â· Firebase` |
+| [**PromptInjection**](https://github.com/Soham792/PromptInjection) | Prompt injection attacks and defenses against LLM apps. | `Python Â· LLM Security` |
 
 ## 🤝 Connect
 
 <div align="center">
 
-<a href="https://github.com/yourusername"><img src="https://raw.githubusercontent.com/yourusername/yourusername/main/assets/connect.svg?v=1" alt="Links: GitHub, LinkedIn, X, email" width="100%"/></a>
+<a href="https://github.com/Soham792"><img src="https://raw.githubusercontent.com/Soham792/Soham792/main/assets/connect.svg?v=1" alt="Links: GitHub, LinkedIn, X, email" width="100%"/></a>
 
-[GitHub](https://github.com/yourusername) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/yourusername) &nbsp;·&nbsp; [X](https://x.com/yourusername) &nbsp;·&nbsp; [Email](mailto:you@example.com)
+[GitHub](https://github.com/Soham792) &nbsp;·&nbsp; [LinkedIn](https://www.linkedin.com/in/marathesoham) &nbsp;·&nbsp; [X]() &nbsp;·&nbsp; [Email](mailto:sohammarathe3@gmail.com)
 
 </div>
