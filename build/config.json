@@ -6,7 +6,7 @@
   "username": "Soham792",
   "email": "sohammarathe3@gmail.com",
   "city": "Mumbai, Maharashtra",
-  "company": "HackersEra India",
+  "company": "CodimAI",
   "branch": "main",
 
   "roles": ["AI Engineer", "LLM & Automation Builder", "Cybersecurity Enthusiast"],
@@ -23,7 +23,7 @@
     { "title": "NexusHire",        "caption": "AI-powered recruitment platform, live demo",   "icon": "users" },
     { "title": "PanelSena",        "caption": "Kotlin cloud digital signage for Raspberry Pi", "icon": "layers" },
     { "title": "PromptInjection",  "caption": "LLM prompt injection attacks & defenses",       "icon": "lock" },
-    { "title": "HackersEra",       "caption": "Penetration tester intern, OWASP testing",      "icon": "activity" }
+    { "title": "HackersEra — CodimAI", "caption": "Penetration tester intern, OWASP testing",      "icon": "activity" }
   ],
   "rings": [
     { "label": "Focus", "pct": 0.82, "color": "#22d3ee" },
